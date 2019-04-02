@@ -1,0 +1,12 @@
+# Altium files
+History/
+__Previews/
+Project Logs for */
+Project Outputs for */
+
+# Open documents
+~$*.*
+~*.tmp
+
+# Logic data files
+*.logicdata
