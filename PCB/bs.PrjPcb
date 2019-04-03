@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for bs
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -225,6 +225,10 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=.\Output\BS-V1_netlist_v1.0.2.NET
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Output\BS-V1_netlist_v1.0.NET
 DItemRevisionGUID=
 
@@ -234,7 +238,7 @@ Value=BS-V1
 
 [Parameter2]
 Name=ProjRev
-Value=1.0.1
+Value=1.0.2
 
 [Parameter3]
 Name=ProjEngineer
@@ -251,7 +255,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for bs
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -362,7 +366,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother DCP-L2540DW series
+TargetPrinter=Brother HL-4570CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
