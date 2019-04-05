@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 4:32:32 PM On 4/3/2019
+Start Output Generation At 4:10:51 PM On 4/5/2019
 
 Output: Telesis Netlist
 Type  : TelesisNetlist
 From  : Project [bs.PrjPcb]
-   Generated File[BS-V1_netlist_v1.0.2.NET]
+   Generated File[BS-V1_netlist_v1.0.3.NET]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 4:32:33 PM On 4/3/2019
+Finished Output Generation At 4:10:51 PM On 4/5/2019
