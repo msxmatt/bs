@@ -258,16 +258,16 @@ DocumentPath=Project Outputs for bs\Design Rule Check - bs.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=XPN
-Value=BS-V1
+Name=ProjEngineer
+Value=Matt Staniszewski
 
 [Parameter2]
 Name=ProjRev
 Value=1.0.4
 
 [Parameter3]
-Name=ProjEngineer
-Value=Matt Staniszewski
+Name=XPN
+Value=BS-V1
 
 [Configuration1]
 Name=Sources
@@ -391,7 +391,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother DCP-L2540DW series
+TargetPrinter=Brother HL-4570CDW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
