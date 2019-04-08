@@ -47,8 +47,8 @@ AnnotateScope=All
 AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -258,16 +258,16 @@ DocumentPath=Project Outputs for bs\Design Rule Check - bs.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjEngineer
-Value=Matt Staniszewski
+Name=XPN
+Value=BS-V1
 
 [Parameter2]
 Name=ProjRev
 Value=1.0.4
 
 [Parameter3]
-Name=XPN
-Value=BS-V1
+Name=ProjEngineer
+Value=Matt Staniszewski
 
 [Configuration1]
 Name=Sources
@@ -1231,7 +1231,7 @@ GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
 
 [PrjClassGen]
-CompClassManualEnabled=0
+CompClassManualEnabled=1
 CompClassManualRoomEnabled=0
 NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
