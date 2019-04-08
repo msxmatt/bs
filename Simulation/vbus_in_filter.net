@@ -1,8 +1,0 @@
-* C:\git\msx\bs\Simulation\vbus_in_filter.asc
-V1 VBUS_IN 0 SINE(5 1 100E6 0 0 0 1E9) AC 1
-XU1 VBUS_IN VBUS BLM15PX601SN1
-C1 VBUS 0 0.1µ
-.tran 0 100n 0 1n
-.lib C:\Users\matt\Downloads\BLM15PX601SN1.mod
-.backanno
-.end

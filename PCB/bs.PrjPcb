@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for bs
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -250,10 +250,14 @@ DocumentPath=Output\BS-V1_netlist_v1.0.3.NET
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Output\BS-V1_netlist_v1.0.NET
+DocumentPath=.\Output\BS-V1_netlist_v1.0.4.NET
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=Output\BS-V1_netlist_v1.0.NET
+DItemRevisionGUID=
+
+[GeneratedDocument5]
 DocumentPath=Project Outputs for bs\Design Rule Check - bs.html
 DItemRevisionGUID=
 
@@ -280,7 +284,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for bs
 
 [OutputGroup1]
 Name=Netlist Outputs
