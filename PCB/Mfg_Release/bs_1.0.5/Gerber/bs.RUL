@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: C:\git\msx\bs\PCB\bs.PcbDoc
+RuleKind=Clearance|RuleName=GND Via Exception|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=GND 3H Exception|Scope=Board|Minimum=5.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.00
+RuleKind=MinimumAnnularRing|RuleName=Via AR|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Default Width|Scope=Board|Minimum=5.00
+RuleKind=Width|RuleName=50Ohm SE Width|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Power Width|Scope=Board|Minimum=7.00
+RuleKind=Clearance|RuleName=Default Clearance|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Sensitive 3H|Scope=Board|Minimum=23.62
