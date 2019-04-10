@@ -262,16 +262,16 @@ DocumentPath=Project Outputs for bs\Design Rule Check - bs.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjEngineer
-Value=Matt Staniszewski
+Name=XPN
+Value=BS-V1
 
 [Parameter2]
 Name=ProjRev
 Value=1.0.5
 
 [Parameter3]
-Name=XPN
-Value=BS-V1
+Name=ProjEngineer
+Value=Matt Staniszewski
 
 [Configuration1]
 Name=Sources
@@ -927,7 +927,7 @@ Type30=1
 Type31=1
 Type32=1
 Type33=1
-Type34=1
+Type34=0
 Type35=1
 Type36=1
 Type37=1
