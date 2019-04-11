@@ -2,104 +2,6 @@
 FileName = bs.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Paste
-      File : bs.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D28
-    D29
-    D30
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : bs.GD1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D14
-    D121
-    D122
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : bs.GG1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D14
-    D121
-*************************************************************
-
-*************************************************************
-Generating : Int2 (PWR)
-      File : bs.GP2
-
-    Adding Layer      : Int2 (PWR)
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D57
-    D68
-    D69
-    D71
-    D72
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : bs.GTL
 
@@ -162,20 +64,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : bs.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D14
-    D119
-*************************************************************
-
-*************************************************************
 Generating : Top Paste
       File : bs.GTP
 
@@ -209,6 +97,46 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Solder
+      File : bs.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
 Generating : Bottom Overlay
       File : bs.GBO
 
@@ -225,6 +153,190 @@ Used DCodes :
     D118
     D119
     D120
+    D121
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : bs.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : bs.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D14
+    D119
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : bs.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D28
+    D29
+    D30
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : bs.GD1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D14
+    D122
+    D123
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : bs.GG1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D14
+    D122
+*************************************************************
+
+*************************************************************
+Generating : Int2 (PWR)
+      File : bs.GP2
+
+    Adding Layer      : Int2 (PWR)
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D57
+    D68
+    D69
+    D70
+    D73
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+*************************************************************
+
+*************************************************************
+Generating : Int1 (GND)
+      File : bs.GP1
+
+    Adding Layer      : Int1 (GND)
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
 *************************************************************
 
 *************************************************************
@@ -274,116 +386,5 @@ Used DCodes :
     D97
     D98
     D99
-*************************************************************
-
-*************************************************************
-Generating : Int1 (GND)
-      File : bs.GP1
-
-    Adding Layer      : Int1 (GND)
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : bs.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : bs.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
 *************************************************************
 
